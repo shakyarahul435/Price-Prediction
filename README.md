@@ -1,2 +1,2 @@
 # Price-Prediction
-Designed to predict the price of a jewelleries.
+Designed to predict the price of a jewelleries using DecisionTreeRegressor.
